@@ -13,3 +13,4 @@ $ git config -l # 확인
 2. develop 에서 브랜치(feature)를 만들어 작업하고 develop에 rebase하여 merge 한다.
 
 remote1
+remote2
