@@ -8,9 +8,9 @@ git fetch, rebase test
 
 
 
-develop commit 1
-develop commit 2
-develop commit 3
-develop commit 4 
+develop commit 12
+develop commit 22
+develop commit 32
+develop commit 42
 
-feature commit 1
+feature commit 12
