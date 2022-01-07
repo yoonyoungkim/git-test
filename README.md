@@ -26,3 +26,5 @@ remote squash1
 
 
 change branch1
+
+change branch2
