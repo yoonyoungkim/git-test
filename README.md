@@ -25,4 +25,6 @@ squash - local3
 remote squash1
 
 
-change branch
+change branch1
+
+change branch2
